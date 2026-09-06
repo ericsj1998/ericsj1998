@@ -93,4 +93,4 @@
 ## 📫 Contact
 
 <a href="mailto:ericsj1998@naver.com"><img src="https://img.shields.io/badge/ericsj1998@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/seongjune-jeong-736502434/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ericsj1998/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
