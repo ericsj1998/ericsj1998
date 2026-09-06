@@ -2,9 +2,10 @@
 
 # 🚀 안녕하세요, AI 개발자 정성준입니다.
 
-### SAP ERP 데이터 기반 Autonomous LLM 에이전트를 개발합니다
+### 복잡하고 추상적인 기업 데이터를 체계화하여, AI 서비스로 만드는 일에 관심이 있습니다
 
-SAP ERP 전문 기업의 AI 조직에서 **엔터프라이즈 LLM 에이전트**를 만들고 있습니다.
+정형, 비정형, 레거시, ERP, 재무, 회계, 주식, 코인, 공공데이터 등<br>
+여러 데이터들을 분석하고 자동화하여 사용자에게 비즈니스 가치를 제공합니다.
 
 <p>
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
@@ -29,7 +30,7 @@ SAP ERP 전문 기업의 AI 조직에서 **엔터프라이즈 LLM 에이전트**
 
 ## 💼 Projects
 
-- 🤖 SAP ERP 회계·주문 원장 위에서 동작하는 **멀티 에이전트 플랫폼** 개발 (2024.05 ~)
+- 🤖 SAP ERP 전문 기업의 AI 조직에서 **멀티 에이전트 플랫폼** 개발 (2024.05 ~)
 - 🏢 정유사 · 게임사 · 제조사 등 중견/대기업 고객사와 **AI PoC 10건+** 설계·구현
 - 🕸️ SAP 회계 원장과 DART 공시를 하나로 묶는 **Knowledge Graph(RDF/OWL)** 온톨로지 설계
 - 📄 문서 OCR · Enterprise RAG · Text2SQL · MCP Tool 서버
