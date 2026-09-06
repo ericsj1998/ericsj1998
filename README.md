@@ -16,8 +16,9 @@
 ---
 
 ### 👋 About
-
-SAP ERP 전문 기업의 AI 조직에서 **엔터프라이즈 LLM 에이전트**를 만들고 있습니다.
+항상 목표를 달성하기 위해 고민하는 개발자.
+모든 피드백에 감사드립니다.
+저는 SAP ERP 전문 기업의 AI 조직에서 **엔터프라이즈 LLM 에이전트**를 만들고 있습니다.
 
 - 🏢 SAP ERP 회계·주문 원장 위에서 동작하는 **멀티 에이전트 플랫폼** 개발 (2024.05 ~)
 - 🧩 정유사 · 게임사 · 제조사 등 중견/대기업 고객사와 **AI PoC 10건+** 설계·구현
@@ -71,5 +72,8 @@ SAP ERP 전문 기업의 AI 조직에서 **엔터프라이즈 LLM 에이전트**
 
 ### 📫 Contact
 
-<a href="mailto:ericsj1998@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ericsj1998@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a> 
+<br>
+```ericsj1998@naver.com```
+<br>
+<a href="https://www.linkedin.com/in/seongjune-jeong-736502434/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
