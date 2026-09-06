@@ -4,6 +4,8 @@
 
 ### SAP ERP 데이터 기반 Autonomous LLM 에이전트를 개발합니다
 
+SAP ERP 전문 기업의 AI 조직에서 **엔터프라이즈 LLM 에이전트**를 만들고 있습니다.
+
 <p>
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
@@ -17,15 +19,20 @@
 
 ## 👋 About
 
-항상 목표를 달성하기 위해 고민하는 개발자. 모든 피드백에 감사드립니다.
+항상 목표를 달성하기 위해 고민하는 개발자.
+새로운 기술을 탐색하고, 공유하며 배우고, 노력하며 즐기고 있습니다.
+피드백을 주시는 모든 분들에게 감사드립니다.
 
-SAP ERP 전문 기업의 AI 조직에서 **엔터프라이즈 LLM 에이전트**를 만들고 있습니다.
+> ⚖️ *"틀리지 않는 코드"도 중요하지만, 그보다 **틀렸을 때 원인을 정확히 판단할 수 있는 코드**를 먼저 설계합니다.*
 
-- 🏢 SAP ERP 회계·주문 원장 위에서 동작하는 **멀티 에이전트 플랫폼** 개발 (2024.05 ~)
-- 🧩 정유사 · 게임사 · 제조사 등 중견/대기업 고객사와 **AI PoC 10건+** 설계·구현
+<br>
+
+## 💼 Projects
+
+- 🤖 SAP ERP 회계·주문 원장 위에서 동작하는 **멀티 에이전트 플랫폼** 개발 (2024.05 ~)
+- 🏢 정유사 · 게임사 · 제조사 등 중견/대기업 고객사와 **AI PoC 10건+** 설계·구현
 - 🕸️ SAP 회계 원장과 DART 공시를 하나로 묶는 **Knowledge Graph(RDF/OWL)** 온톨로지 설계
 - 📄 문서 OCR · Enterprise RAG · Text2SQL · MCP Tool 서버
-- ⚖️ *"틀리지 않는 코드"도 중요하지만, 그보다 **틀렸을 때 원인을 정확히 판단할 수 있는 코드**를 먼저 설계합니다*
 
 <br>
 
