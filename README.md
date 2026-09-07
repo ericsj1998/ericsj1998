@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<img height="180" src="https://streak-stats.demolab.com?user=ericsj1998&theme=radical&hide_border=true&border_radius=10" />
+<img height="180" src="https://streak-stats.demolab.com?user=ericsj1998&theme=radical&hide_border=true&border_radius=10&v=2" />
 
 </div>
 
