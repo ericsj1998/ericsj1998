@@ -78,9 +78,6 @@
 
 <img height="180" src="https://streak-stats.demolab.com?user=ericsj1998&theme=radical&hide_border=true&border_radius=10" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ericsj1998&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericsj1998&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=6" />
-
 </div>
 
 <br>
