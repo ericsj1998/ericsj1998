@@ -40,7 +40,7 @@
 
 **Personal**
 
-- 📈 **[Up and Down Invest](https://github.com/ericsj1998/up-and-down-invest)** · 복수 거래소 API 연동 주문 실행 시스템 (2026 ~)
+- 📈 **[Up and Down Invest](https://github.com/ericsj1998/up_and_down_invest_public)** · 복수 거래소 API 연동 주문 실행 시스템 (2026 ~)
 
 <br>
 
@@ -63,7 +63,7 @@
 
 ## 🔭 Currently Working On
 
-**[Up and Down Invest](https://github.com/ericsj1998/up-and-down-invest)** · 복수 거래소 API 연동 주문 실행 시스템
+**[Up and Down Invest](https://github.com/ericsj1998/up_and_down_invest_public)** · 복수 거래소 API 연동 주문 실행 시스템
 
 > 설계부터 배포·운영까지 혼자 맡고 있는 개인 프로젝트. AWS Lightsail에서 상시 운영 중.
 > 거래소 어댑터 패턴 · 주문 상태 대조 · 재시도 멱등성 · DART 공시 LLM 구조화 파이프라인
