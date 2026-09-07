@@ -78,13 +78,8 @@
 
 <img height="180" src="https://streak-stats.demolab.com?user=ericsj1998&theme=radical&hide_border=true&border_radius=10" />
 
-<!--
-  아래 두 카드는 github-readme-stats 공개 인스턴스가 GitHub API 한도에 자주 걸려
-  이미지가 깨집니다. 본인 Vercel 계정으로 배포한 뒤 도메인만 바꿔 주석을 풀어 주세요.
-
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ericsj1998&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericsj1998&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=6" />
--->
 
 </div>
 
